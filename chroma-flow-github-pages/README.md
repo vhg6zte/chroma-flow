@@ -1,4 +1,4 @@
-网站地址是 https://vhg6zte.github.io/chroma-flow/chroma-flow-github-pages/`
+网站地址是 https://vhg6zte.github.io/chroma-flow/chroma-flow-github-pages/
 
 ## 官方参考
 - https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
